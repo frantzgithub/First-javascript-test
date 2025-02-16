@@ -3,5 +3,5 @@
 /*
 Javascript joue un rôle important dans un navigateur web
 car plus de 90% des sites web utilisent javascript
-
+avec le dom javascript permet de modifier et de manipuler le page web
 */
